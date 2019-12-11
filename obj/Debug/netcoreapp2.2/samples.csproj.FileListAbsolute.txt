@@ -1,0 +1,11 @@
+C:\Users\lutem\Desktop\code\samples\bin\Debug\netcoreapp2.2\samples.deps.json
+C:\Users\lutem\Desktop\code\samples\bin\Debug\netcoreapp2.2\samples.runtimeconfig.json
+C:\Users\lutem\Desktop\code\samples\bin\Debug\netcoreapp2.2\samples.runtimeconfig.dev.json
+C:\Users\lutem\Desktop\code\samples\bin\Debug\netcoreapp2.2\samples.dll
+C:\Users\lutem\Desktop\code\samples\bin\Debug\netcoreapp2.2\samples.pdb
+C:\Users\lutem\Desktop\code\samples\obj\Debug\netcoreapp2.2\samples.csprojAssemblyReference.cache
+C:\Users\lutem\Desktop\code\samples\obj\Debug\netcoreapp2.2\samples.csproj.CoreCompileInputs.cache
+C:\Users\lutem\Desktop\code\samples\obj\Debug\netcoreapp2.2\samples.AssemblyInfoInputs.cache
+C:\Users\lutem\Desktop\code\samples\obj\Debug\netcoreapp2.2\samples.AssemblyInfo.cs
+C:\Users\lutem\Desktop\code\samples\obj\Debug\netcoreapp2.2\samples.dll
+C:\Users\lutem\Desktop\code\samples\obj\Debug\netcoreapp2.2\samples.pdb
